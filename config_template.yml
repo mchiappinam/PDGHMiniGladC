@@ -1,0 +1,23 @@
+AutoStart:
+  Dia: quarta
+  Hora: '2500'
+ClanTag: '&f[%tag%&r] '
+ClanTagVIP: '[%tag%&r] &6'
+Premios:
+  Tag: '&6[MiniGlad]&f'
+  Dinheiro: 1
+Timers:
+  Preparar:
+    Avisos: 30
+    TempoEntre: 10
+  Iniciando:
+    Avisos: 2
+    TempoEntre: 10
+  Finalizando: 30
+Arena:
+  Entrada: world_evento;173.5;7.0;2330.5;0.0;0.0
+  Saida: 'world;0;0;0;0;0'
+  Camarote: world_evento;173.5;44.0;2330.5;0.0;0.0
+Update: 15
+Vencedores: []
+Bans: {}

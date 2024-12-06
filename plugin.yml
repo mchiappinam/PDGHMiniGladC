@@ -1,0 +1,9 @@
+name: PDGHMiniGladC
+main: me.mchiappinam.pdghminiglad.Main
+version: 1.0
+depends: [SimpleClans,Vault,Herochat]
+website: http://pdgh.com.br/
+commands:
+   miniglad:
+      description: Info.
+      usage: /<command> ?
